@@ -3,14 +3,14 @@ import { VideoCard } from "./VideoCard"
 
 const VIDEO=[{
     title:"How to code in 30 days| live coding with me | 30days plain" ,
-   image:"photo.png",
+   image:"public/t8pPdKYpowI-HD.jpg",
    thumbimage:"ytlogo.jpg",
 author:"Ayush Gopal",
 view:"100k",
 timestamp:"3 days ago"
 },{
     title:"How to learning code in 30 days| live coding with me | 30days plain",
-   image:"photo.png",
+   image:"public/Vm4tx1O9GAc-HD.jpg",
    thumbimage:"ytlogo.jpg",
 author:"Ayush Gopal",
 view:"100k",
